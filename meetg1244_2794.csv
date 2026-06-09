@@ -1,101 +1,101 @@
 candidate_id,rank,score,reasoning
-CAND_0093193,1,0.1588,"Strong alignment in key domains including Ranking Systems and Text Encoders, backed by verified positive responsiveness metrics."
-CAND_0068351,2,0.1579,"Strong alignment in key domains including pgvector and Deep Learning, backed by verified positive responsiveness metrics."
-CAND_0030468,3,0.1399,"Strong alignment in key domains including Information Retrieval Systems and Content Matching, backed by verified positive responsiveness metrics."
-CAND_0006567,4,0.1112,"Strong alignment in key domains including Speech Recognition and scikit-learn, backed by verified positive responsiveness metrics."
-CAND_0080766,5,0.1005,"Strong alignment in key domains including Search Backend and LoRA, backed by verified positive responsiveness metrics."
-CAND_0018066,6,0.0838,"Strong alignment in key domains including Figma and Docker, backed by verified positive responsiveness metrics."
-CAND_0061355,7,0.0821,"Strong alignment in key domains including Java and Vue.js, backed by verified positive responsiveness metrics."
-CAND_0061549,8,0.0818,"Strong alignment in key domains including MongoDB and Webpack, backed by verified positive responsiveness metrics."
-CAND_0088703,9,0.0809,"Strong alignment in key domains including TypeScript and dbt, backed by verified positive responsiveness metrics."
-CAND_0085263,10,0.0799,"Strong alignment in key domains including gRPC and Angular, backed by verified positive responsiveness metrics."
-CAND_0042618,11,0.0796,"Strong alignment in key domains including Project Management and AWS, backed by verified positive responsiveness metrics."
-CAND_0012067,12,0.078,"Strong alignment in key domains including Databricks and Next.js, backed by verified positive responsiveness metrics."
-CAND_0086738,13,0.078,"Strong alignment in key domains including SQL and Docker, backed by verified positive responsiveness metrics."
-CAND_0098347,14,0.0777,"Strong alignment in key domains including dbt and Databricks, backed by verified positive responsiveness metrics."
-CAND_0039329,15,0.0775,"Strong alignment in key domains including React and Tailwind, backed by verified positive responsiveness metrics."
-CAND_0013771,16,0.0774,"Strong alignment in key domains including Kafka and Sales, backed by verified positive responsiveness metrics."
-CAND_0017823,17,0.0773,"Strong alignment in key domains including REST APIs and Apache Beam, backed by verified positive responsiveness metrics."
-CAND_0076154,18,0.0773,"Strong alignment in key domains including Computer Vision and Django, backed by verified positive responsiveness metrics."
-CAND_0060832,19,0.0772,"Strong alignment in key domains including BentoML and Terraform, backed by verified positive responsiveness metrics."
-CAND_0071228,20,0.0771,"Strong alignment in key domains including Salesforce CRM and Azure, backed by verified positive responsiveness metrics."
-CAND_0009539,21,0.0767,"Strong alignment in key domains including React and Kubernetes, backed by verified positive responsiveness metrics."
-CAND_0010939,22,0.0765,"Strong alignment in key domains including Kubernetes and Terraform, backed by verified positive responsiveness metrics."
-CAND_0031081,23,0.0764,"Strong alignment in key domains including Figma and PowerPoint, backed by verified positive responsiveness metrics."
-CAND_0094370,24,0.0759,"Strong alignment in key domains including Content Writing and HTML, backed by verified positive responsiveness metrics."
-CAND_0064921,25,0.0752,"Strong alignment in key domains including Apache Flink and BigQuery, backed by verified positive responsiveness metrics."
-CAND_0066945,26,0.0752,"Strong alignment in key domains including Sales and JavaScript, backed by verified positive responsiveness metrics."
-CAND_0035292,27,0.0747,"Strong alignment in key domains including Excel and gRPC, backed by verified positive responsiveness metrics."
-CAND_0048594,28,0.0746,"Strong alignment in key domains including Terraform and Illustrator, backed by verified positive responsiveness metrics."
-CAND_0081013,29,0.0738,"Strong alignment in key domains including TypeScript and Azure, backed by verified positive responsiveness metrics."
-CAND_0013749,30,0.0736,"Strong alignment in key domains including Weights & Biases and Azure, backed by verified positive responsiveness metrics."
-CAND_0071550,31,0.0735,"Strong alignment in key domains including Six Sigma and Excel, backed by verified positive responsiveness metrics."
-CAND_0025902,32,0.0734,"Strong alignment in key domains including Diffusion Models and Accounting, backed by verified positive responsiveness metrics."
-CAND_0031780,33,0.0734,"Strong alignment in key domains including Photoshop and Node.js, backed by verified positive responsiveness metrics."
-CAND_0032147,34,0.0732,"Strong alignment in key domains including AWS and Next.js, backed by verified positive responsiveness metrics."
-CAND_0006334,35,0.0731,"Strong alignment in key domains including AWS and Redux, backed by verified positive responsiveness metrics."
-CAND_0048943,36,0.0731,"Strong alignment in key domains including Kubernetes and PostgreSQL, backed by verified positive responsiveness metrics."
-CAND_0063826,37,0.0731,"Strong alignment in key domains including BentoML and Marketing, backed by verified positive responsiveness metrics."
-CAND_0017053,38,0.0726,"Strong alignment in key domains including Terraform and Apache Flink, backed by verified positive responsiveness metrics."
-CAND_0024091,39,0.0726,"Strong alignment in key domains including Django and gRPC, backed by verified positive responsiveness metrics."
-CAND_0033748,40,0.0726,"Strong alignment in key domains including Docker and Marketing, backed by verified positive responsiveness metrics."
-CAND_0067985,41,0.0726,"Strong alignment in key domains including Excel and CNN, backed by verified positive responsiveness metrics."
-CAND_0085645,42,0.0726,"Strong alignment in key domains including Redux and dbt, backed by verified positive responsiveness metrics."
-CAND_0000683,43,0.0725,"Strong alignment in key domains including Flask and CSS, backed by verified positive responsiveness metrics."
-CAND_0001147,44,0.0725,"Strong alignment in key domains including Tailwind and Sales, backed by verified positive responsiveness metrics."
-CAND_0010235,45,0.0725,"Strong alignment in key domains including Accounting and Excel, backed by verified positive responsiveness metrics."
-CAND_0045029,46,0.0725,"Strong alignment in key domains including Marketing and Redis, backed by verified positive responsiveness metrics."
-CAND_0079874,47,0.0725,"Strong alignment in key domains including Sales and TTS, backed by verified positive responsiveness metrics."
-CAND_0063737,48,0.0724,"Strong alignment in key domains including Next.js and SQL, backed by verified positive responsiveness metrics."
-CAND_0095271,49,0.0723,"Strong alignment in key domains including Java and Data Science, backed by verified positive responsiveness metrics."
-CAND_0021290,50,0.0722,"Strong alignment in key domains including Go and JavaScript, backed by verified positive responsiveness metrics."
-CAND_0062630,51,0.0722,"Strong alignment in key domains including FastAPI and MLOps, backed by verified positive responsiveness metrics."
-CAND_0070936,52,0.0722,"Strong alignment in key domains including GraphQL and Tally, backed by verified positive responsiveness metrics."
-CAND_0080086,53,0.0722,"Strong alignment in key domains including JavaScript and Salesforce CRM, backed by verified positive responsiveness metrics."
-CAND_0039982,54,0.0721,"Strong alignment in key domains including Spring Boot and Kafka, backed by verified positive responsiveness metrics."
-CAND_0092070,55,0.072,"Strong alignment in key domains including TypeScript and Redux, backed by verified positive responsiveness metrics."
-CAND_0014439,56,0.0719,"Strong alignment in key domains including Docker and Go, backed by verified positive responsiveness metrics."
-CAND_0042934,57,0.0719,"Strong alignment in key domains including Apache Beam and Node.js, backed by verified positive responsiveness metrics."
-CAND_0008285,58,0.0718,"Strong alignment in key domains including SAP and Excel, backed by verified positive responsiveness metrics."
-CAND_0080225,59,0.0717,"Strong alignment in key domains including Data Pipelines and Photoshop, backed by verified positive responsiveness metrics."
-CAND_0008417,60,0.0716,"Strong alignment in key domains including ETL and Docker, backed by verified positive responsiveness metrics."
-CAND_0015235,61,0.0716,"Strong alignment in key domains including GCP and Flask, backed by verified positive responsiveness metrics."
-CAND_0023444,62,0.0716,"Strong alignment in key domains including React and BigQuery, backed by verified positive responsiveness metrics."
-CAND_0005851,63,0.0715,"Strong alignment in key domains including Kafka and Node.js, backed by verified positive responsiveness metrics."
-CAND_0006732,64,0.0715,"Strong alignment in key domains including Sales and Docker, backed by verified positive responsiveness metrics."
-CAND_0021680,65,0.0715,"Strong alignment in key domains including SQL and Figma, backed by verified positive responsiveness metrics."
-CAND_0015789,66,0.0714,"Strong alignment in key domains including SEO and Figma, backed by verified positive responsiveness metrics."
-CAND_0027138,67,0.0714,"Strong alignment in key domains including Tally and ETL, backed by verified positive responsiveness metrics."
-CAND_0073874,68,0.0714,"Strong alignment in key domains including Docker and Apache Beam, backed by verified positive responsiveness metrics."
-CAND_0078258,69,0.0714,"Strong alignment in key domains including CI/CD and CSS, backed by verified positive responsiveness metrics."
-CAND_0064347,70,0.0713,"Strong alignment in key domains including Databricks and Sales, backed by verified positive responsiveness metrics."
-CAND_0014886,71,0.0712,"Strong alignment in key domains including Spark and Six Sigma, backed by verified positive responsiveness metrics."
-CAND_0057133,72,0.0712,"Strong alignment in key domains including Scrum and REST APIs, backed by verified positive responsiveness metrics."
-CAND_0093477,73,0.0712,"Strong alignment in key domains including Figma and Statistical Modeling, backed by verified positive responsiveness metrics."
-CAND_0011171,74,0.071,"Strong alignment in key domains including Agile and gRPC, backed by verified positive responsiveness metrics."
-CAND_0069195,75,0.071,"Strong alignment in key domains including gRPC and Reinforcement Learning, backed by verified positive responsiveness metrics."
-CAND_0070062,76,0.071,"Strong alignment in key domains including Flask and Reinforcement Learning, backed by verified positive responsiveness metrics."
-CAND_0051889,77,0.0709,"Strong alignment in key domains including gRPC and Apache Beam, backed by verified positive responsiveness metrics."
-CAND_0054354,78,0.0708,"Strong alignment in key domains including Project Management and Airflow, backed by verified positive responsiveness metrics."
-CAND_0069889,79,0.0708,"Strong alignment in key domains including HTML and Agile, backed by verified positive responsiveness metrics."
-CAND_0079244,80,0.0708,"Strong alignment in key domains including CSS and Terraform, backed by verified positive responsiveness metrics."
-CAND_0095289,81,0.0708,"Strong alignment in key domains including ETL and dbt, backed by verified positive responsiveness metrics."
-CAND_0018735,82,0.0706,"Strong alignment in key domains including Docker and Data Science, backed by verified positive responsiveness metrics."
-CAND_0040543,83,0.0706,"Strong alignment in key domains including Microservices and Spark, backed by verified positive responsiveness metrics."
-CAND_0047675,84,0.0705,"Strong alignment in key domains including Django and Kubernetes, backed by verified positive responsiveness metrics."
-CAND_0069431,85,0.0705,"Strong alignment in key domains including JavaScript and REST APIs, backed by verified positive responsiveness metrics."
-CAND_0002005,86,0.0704,"Strong alignment in key domains including CI/CD and TypeScript, backed by verified positive responsiveness metrics."
-CAND_0013085,87,0.0704,"Strong alignment in key domains including Webpack and Figma, backed by verified positive responsiveness metrics."
-CAND_0054310,88,0.0704,"Strong alignment in key domains including MLOps and GraphQL, backed by verified positive responsiveness metrics."
-CAND_0069144,89,0.0704,"Strong alignment in key domains including GraphQL and GCP, backed by verified positive responsiveness metrics."
-CAND_0099320,90,0.0704,"Strong alignment in key domains including OpenCV and Airflow, backed by verified positive responsiveness metrics."
-CAND_0000770,91,0.0703,"Strong alignment in key domains including Kafka and Agile, backed by verified positive responsiveness metrics."
-CAND_0015793,92,0.0703,"Strong alignment in key domains including Django and SAP, backed by verified positive responsiveness metrics."
-CAND_0030503,93,0.0703,"Strong alignment in key domains including Apache Beam and Weights & Biases, backed by verified positive responsiveness metrics."
-CAND_0063306,94,0.0703,"Strong alignment in key domains including Redux and Content Writing, backed by verified positive responsiveness metrics."
-CAND_0096354,95,0.0703,"Strong alignment in key domains including GCP and Flask, backed by verified positive responsiveness metrics."
-CAND_0002058,96,0.0702,"Strong alignment in key domains including Next.js and gRPC, backed by verified positive responsiveness metrics."
-CAND_0004761,97,0.0702,"Strong alignment in key domains including gRPC and Airflow, backed by verified positive responsiveness metrics."
-CAND_0049710,98,0.0702,"Strong alignment in key domains including Marketing and Databricks, backed by verified positive responsiveness metrics."
-CAND_0087602,99,0.0701,"Strong alignment in key domains including Flask and Salesforce CRM, backed by verified positive responsiveness metrics."
-CAND_0094618,100,0.0701,"Strong alignment in key domains including Object Detection and Six Sigma, backed by verified positive responsiveness metrics."
+CAND_0067110,1,0.226821,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0061665,2,0.208086,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0075409,3,0.19029,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0005606,4,0.175153,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0070965,5,0.165143,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0082977,6,0.160615,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0044207,7,0.159966,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0040887,8,0.157646,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0047763,9,0.156817,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0049059,10,0.156254,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0084686,11,0.151082,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0049796,12,0.150199,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0050229,13,0.147861,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0030815,14,0.14514,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0074128,15,0.142253,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0098954,16,0.14098,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0083578,17,0.139937,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0006670,18,0.138925,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0088751,19,0.138231,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0003788,20,0.138188,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0030348,21,0.137378,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0010910,22,0.137199,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0031015,23,0.137077,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0016699,24,0.136716,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0080372,25,0.135998,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0023393,26,0.134821,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0046064,27,0.134077,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0016675,28,0.133174,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0006988,29,0.132918,Strong keyword and skills alignment with baseline requirement specs. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0073883,30,0.132466,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0041779,31,0.131324,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0007325,32,0.129424,Strong keyword and skills alignment with baseline requirement specs. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0078938,33,0.129422,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0073922,34,0.128732,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0040677,35,0.127796,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0069157,36,0.127029,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0022026,37,0.125303,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0094799,38,0.122946,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0018965,39,0.122787,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0057369,40,0.121356,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0064326,41,0.121046,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0002025,42,0.120022,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0050076,43,0.119267,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0090533,44,0.11865,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0033749,45,0.118128,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0001808,46,0.118099,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0031582,47,0.117643,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0088025,48,0.117188,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0003025,49,0.116869,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0039887,50,0.116829,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0026311,51,0.116628,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0019416,52,0.115727,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0012583,53,0.115386,Strong keyword and skills alignment with baseline requirement specs. Possesses an active open-source contribution record on GitHub.
+CAND_0040332,54,0.115325,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0054940,55,0.11441,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0035927,56,0.113178,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0081846,57,0.112878,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0094456,58,0.112555,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0086142,59,0.11148,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0092568,60,0.111177,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0014114,61,0.111111,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0047227,62,0.110763,Strong keyword and skills alignment with baseline requirement specs. Possesses an active open-source contribution record on GitHub.
+CAND_0052974,63,0.110727,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0087232,64,0.110712,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0014715,65,0.10985,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0059065,66,0.109543,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0068966,67,0.109347,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0094786,68,0.109126,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0012632,69,0.108304,Strong keyword and skills alignment with baseline requirement specs. Possesses an active open-source contribution record on GitHub.
+CAND_0047265,70,0.107652,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0062707,71,0.107597,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0076412,72,0.107537,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0091976,73,0.107396,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0051359,74,0.10732,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0072558,75,0.106386,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0005965,76,0.106109,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0031239,77,0.105835,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0034767,78,0.105789,Strong keyword and skills alignment with baseline requirement specs. Possesses an active open-source contribution record on GitHub.
+CAND_0032527,79,0.105647,Strong keyword and skills alignment with baseline requirement specs. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0085369,80,0.105362,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0012957,81,0.105285,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0001128,82,0.105029,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0004281,83,0.104873,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0039754,84,0.1048,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics. Possesses an active open-source contribution record on GitHub.
+CAND_0093261,85,0.104335,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0085634,86,0.104107,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0078058,87,0.103554,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0072032,88,0.103423,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0055796,89,0.103266,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0083307,90,0.103035,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Possesses an active open-source contribution record on GitHub.
+CAND_0024471,91,0.103023,Strong keyword and skills alignment with baseline requirement specs. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0038108,92,0.102971,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0096414,93,0.102455,Strong keyword and skills alignment with baseline requirement specs.
+CAND_0033217,94,0.102247,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0055139,95,0.102214,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0043641,96,0.102187,Strong keyword and skills alignment with baseline requirement specs. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0072081,97,0.102184,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0005260,98,0.102114,Strong keyword and skills alignment with baseline requirement specs. Demonstrates premier platform engagement and responsiveness metrics.
+CAND_0011200,99,0.102038,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking.
+CAND_0093926,100,0.101963,Strong keyword and skills alignment with baseline requirement specs. High hiring velocity candidate marked as actively looking. Demonstrates premier platform engagement and responsiveness metrics.
