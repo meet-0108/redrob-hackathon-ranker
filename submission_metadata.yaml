@@ -1,0 +1,63 @@
+# Team identity
+# ============================================================================
+team_name: "ClarteLabs" 
+
+primary_contact:
+  name: "Meet Gohel"
+  email: "meetg1244@gmail.com"   
+  phone: "+91-7624010733"       
+
+team_members:
+  - name: "Meet Gohel"
+    email: "meetg1244@gmail.com" 
+    role: "AI Engineer..Self taught"          
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/meet-0108/redrob-hackathon-ranker"
+
+sandbox_link: "https://huggingface.co/spaces/meetg18/redrob-ranker"
+
+reproduce_command: "python rank.py"
+
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "MacBook Pro"                    
+  cpu_cores: 8                                  
+  ram_gb: 16                                    
+  python_version: "3.11.0"                      
+  os: "macOS"                              
+  uses_gpu_for_inference: false                
+  has_network_during_ranking: false             
+  pre_computation_required: false               
+  pre_computation_time_minutes: 0               
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Gemini"
+
+ai_usage_summary: |
+  Used Gemini for code review, edge-case debugging, and architectural discussion. Used Cursor for code structuring and refactoring. No candidate dataset rows or records were transmitted over external networks or API endpoints during evaluation pipeline processing.
+
+# ============================================================================
+# Approach summary 
+# ============================================================================
+methodology_summary: |
+  Rule-based semantic ranking engine utilizing a TF-IDF matrix computation layer, directly coupled with an explicit, multi-tier non-linear multiplier suite designed around the official Redrob Behavioral Signals. The algorithm enforces robust anti-honeypot text validations by penalizing non-technical roles that exhibit artificial keyword stuffing. Consulting and service-firm exclusions are applied deterministically to isolate top-tier engineering talent matching the Series A Founding team profile. Tie-breakers resolve utilizing an alphanumeric candidate_id ascending fallback sequence, truncated strictly to a top-100 evaluation row limit. Runtime takes less than 3 seconds on a basic local CPU environment.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+
+declarations:
+  read_submission_spec: true        
+  code_is_original_work: true       
+  no_collusion: true                
+  honeypot_check_done: true      
+  reproduction_tested: true
